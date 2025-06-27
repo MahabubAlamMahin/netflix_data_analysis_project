@@ -7,7 +7,6 @@ This project performs a complete exploratory data analysis on a curated Netflix 
 
 ## 📁 Dataset
 - **Total Records**: 9,826 entries (expanded to 25,551 after genre normalization)
-- **Source**: [Custom/Kaggle dataset] *(provide link if available)*
 
 ## 🧠 Objectives
 - Clean and structure data for analysis
